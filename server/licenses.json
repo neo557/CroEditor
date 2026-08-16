@@ -1,0 +1,13 @@
+{
+  "tokens": {
+    "UUID_1": "unused",
+    "UUID_2": "used"
+  },
+  "licenses": {
+    "ABCDE-12345-FGHIJ-67890": {
+      "status": "valid",
+      "created": "2026-08-16",
+      "expires": null
+    }
+  }
+}
