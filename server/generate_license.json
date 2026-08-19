@@ -1,0 +1,10 @@
+{
+    "UserId": "cro_001",
+    "PurchaseType": "subscription"
+}
+{
+    "LicenseKey": "SUB-123456",
+    "Type": "subscription",
+    "Expires": "2027-08-19T00:00:00",
+    "IsValid": true
+}
