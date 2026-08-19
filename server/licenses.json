@@ -1,13 +1,17 @@
 {
-  "tokens": {
-    "UUID_1": "unused",
-    "UUID_2": "used"
-  },
-  "licenses": {
-    "ABCDE-12345-FGHIJ-67890": {
-      "status": "valid",
-      "created": "2026-08-16",
-      "expires": null
-    }
-  }
+    "licenses": [
+        {
+            "UserId": "cro_001",
+            "LicenseKey": "SUB-123456",
+            "Type": "subscription",
+            "Expires": "2027-08-19T00:00:00",
+            "IsValid": true
+        },
+        {
+            "UserId": "cro_002",
+            "LicenseKey": "PERM-00001",
+            "Type": "permanent",
+            "IsValid": true
+        }
+    ]
 }
